@@ -334,6 +334,16 @@ html {
   font-size: 1.6rem;
   color: #f8872b;
   cursor: pointer;
+  transition: all 0.4s;
+}
+
+.pricing-top button:hover,
+.pricing button:hover {
+  background-color: #f8872b;
+  color: #fff;
+  width: 18rem;
+  height: 4rem;
+  font-size: 1.6rem;
 }
 
 .pricing-cards {
@@ -461,8 +471,19 @@ html {
   border: none;
   border-radius: 3rem;
   font-size: 1.6rem;
+  font-weight: 600;
   color: #fff;
   cursor: pointer;
+  transition: all 0.3s;
+}
+
+.trends button:hover {
+  background-color: #f8872b;
+  color: #073e72;
+  width: 18rem;
+  height: 4rem;
+  font-size: 1.6rem;
+  font-weight: 600;
 }
 
 .blog {
@@ -572,6 +593,16 @@ html {
   border-radius: 3rem;
   color: #fff;
   cursor: pointer;
+  transition: all 0.3s;
+}
+
+.content-right button:hover {
+  background-color: #fff;
+  color: #073e72;
+  width: 13rem;
+  height: 4rem;
+  font-size: 1.7rem;
+  font-weight: 800;
 }
 
 /* End of Contact */
