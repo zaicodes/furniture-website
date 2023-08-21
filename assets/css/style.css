@@ -563,8 +563,10 @@ html {
 }
 
 .content-right button {
-  width: 10rem;
+  width: 13rem;
   height: 4rem;
+  font-size: 1.7rem;
+  font-weight: 800;
   background-color: #f8872b;
   border: none;
   border-radius: 3rem;
