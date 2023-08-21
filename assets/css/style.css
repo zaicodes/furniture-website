@@ -426,11 +426,12 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 5rem 0;
 }
 
 .blog-content {
   width: 50%;
-  height: 50rem;
+  height: 70rem;
   background-color: #ffb128;
   border-radius: 3rem;
 }
