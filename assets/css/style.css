@@ -95,6 +95,7 @@ html {
 
 .nav-list {
   display: flex;
+  justify-content: space-evenly;
   height: 8.5rem;
   padding-top: 2rem;
 }
@@ -124,6 +125,7 @@ html {
   color: #073e72;
   letter-spacing: 0.1rem;
 }
+
 /* End of Navbar */
 
 /* Landing */
